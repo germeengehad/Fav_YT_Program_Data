@@ -108,7 +108,7 @@ While channel names can affect discoverability or audience trust, content qualit
 Analyzed frequently viewed words in video titles and descriptions to identify key topics.
 Created a word cloud to visualize these themes effectively, providing insights into the program’s focus areas.
 
-
+![Image](https://github.com/germeengehad/Fav_YT_Program_Data/blob/master/count.png)
 # Comments Data Analysis for Future Video Topic Suggestions
 
 - Data Cleaning:
