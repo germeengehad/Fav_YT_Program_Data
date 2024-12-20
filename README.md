@@ -57,6 +57,8 @@ Notably, this was the first channel where the targeted program was launched, sug
 - Further Analysis:
 To validate this observation, performance trends of the program across AJ+ كبريت and the other channels could be analyzed to determine any notable differences in impact.
 
+![Image](https://github.com/germeengehad/Fav_YT_Program_Data/blob/master/channels.png)
+
 # Feature Engineering & EDA (for videos_data Dataset)
 
 - Data Preprocessing
