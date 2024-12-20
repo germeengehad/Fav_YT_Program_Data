@@ -79,6 +79,7 @@ Highest Views: فلسطين .. حكاية الأرض | الدحيح | Palestine:
 A captivating exploration of Palestine's history with exceptional storytelling and meticulous research. This episode has a significant viewership due to its engaging and educational content.
 High Engagement: الدحيح | الملل:
 A relatable dive into human psychology and boredom, blending humor and scientific insights. This episode has sparked meaningful conversations and resonates deeply with the audience.
+![Image](https://github.com/germeengehad/Fav_YT_Program_Data/blob/master/max.png)
 
 - Trend Analysis
 View Count Trends:
