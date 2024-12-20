@@ -1,5 +1,5 @@
    #  My Favorite YouTube Program Data Analysis  :Project Overview
-   ![credit card Image](https://github.com/germeengehad/Predicting-credit-card-fraud/blob/main/credit_cards.jpeg-1-900x510.jpg)
+   ![credit card Image](https://github.com/germeengehad/Fav_YT_Program_Data/blob/master/youtube_1.jpeg)
    
 
 -This project explores descriptive, predictive, and sentiment analysis for my favorite YouTube program. Inspired by my curiosity about why this program initially received fewer views and why I sometimes felt bored watching it, I decided to analyze its performance using data.
